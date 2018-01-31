@@ -16,12 +16,8 @@ Bezug auf CoGran https://github.com/berlinermorgenpost/cogran
 | 2.2 | Auswahl von Datensätzen |
 | | |
 | **3** | **Bibliothek Kontrollzonen**|
-| 3.1 | Datenbankkonzept |
-| 3.2 | Datenbankfüllung |
 | | |
 | **4** | **Konzept Software-Tool**|
-| 4.1 | Erstellung Konzept |
-| 4.2 | Einbindung |
 | | |
 | **5** | **Konzept zur Steuerung der Methodenauswahl**|
 | 5.1 | Identifizierung geostatistischer Parameter |
@@ -34,6 +30,3 @@ Bezug auf CoGran https://github.com/berlinermorgenpost/cogran
 | 6.3 | Erste Bewertung |
 | | |
 | **7** | **Zukunftsstrategie**|
-| 7.1 | Offene Fragestellungen |
-| 7.2 | Erweiterung Verwertungsplan |
-| 7.3 | Antrag Folgeprojekt |
