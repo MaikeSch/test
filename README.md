@@ -1,6 +1,6 @@
 # UeGeo
 
-Die Struktur orientiert sich an den Arbeitspaketen des Projektsantrags. Ergebnisse können in den entsprechenden Ordner gefunden werden. 
+Die Struktur orientiert sich an den Arbeitspaketen des Projektsantrags. Ergebnisse können in den entsprechenden Ordnern gefunden werden. 
 
 Bezug auf CoGran https://github.com/berlinermorgenpost/cogran
 
